@@ -1,0 +1,1 @@
+main(n,x,a){scanf("%d%d",&n,&x);while(n--)scanf("%d",&a),a<x&&printf("%d ",a);}

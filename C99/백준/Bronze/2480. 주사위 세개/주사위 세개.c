@@ -1,0 +1,1 @@
+a;main(b,c){scanf("%d%d%d",&a,&b,&c);printf("%d00",a^b?a^c&&b^c?a>b&a>c?a:b>c?b:c:10+c:a^c?10+a:100+a*10);}

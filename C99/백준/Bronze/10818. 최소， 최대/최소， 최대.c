@@ -1,0 +1,1 @@
+main(t,n,m,x,i){m=1000001,x=-1000001;scanf("%d",&t);for(i=0;i<t;i++){scanf("%d",&n);if(n<m)m=n;if(n>x)x=n;}printf("%d %d",m,x);}

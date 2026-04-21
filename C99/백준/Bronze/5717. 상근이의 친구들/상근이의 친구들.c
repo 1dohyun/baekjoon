@@ -1,0 +1,1 @@
+main(a,b){do{scanf("%d %d", &a, &b); if(a==0 && b==0) break; printf("%d\n", a+b);}while(a!=0 && b!=0);}

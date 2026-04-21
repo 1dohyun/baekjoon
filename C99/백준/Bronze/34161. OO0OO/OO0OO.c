@@ -1,0 +1,1 @@
+main(i){for(i=0;i<1e4;i++)puts("-1");}

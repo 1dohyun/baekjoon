@@ -1,0 +1,3 @@
+#include<stdio.h>
+#define m(a,b)((a)<(b)?(a):(b))
+int n,b,c,d[1000001];long long r;int main(){scanf("%d%d%d",&n,&b,&c);for(int i=0;i<n;i++)scanf("%d",d+i);if(b<=c){for(int i=0;i<n;i++)r+=(long long)d[i]*b;}else{for(int i=0;i<n;i++){if(i<n-2&&d[i+1]>d[i+2]){int t=m(d[i],d[i+1]-d[i+2]);d[i]-=t,d[i+1]-=t,r+=(long long)t*(b+c);}if(i<n-2){int t=m(d[i],m(d[i+1],d[i+2]));d[i]-=t,d[i+1]-=t,d[i+2]-=t,r+=(long long)t*(b+2*c);}if(i<n-1){int t=m(d[i],d[i+1]);d[i]-=t,d[i+1]-=t,r+=(long long)t*(b+c);}r+=(long long)d[i]*b;}}printf("%lld",r);}
