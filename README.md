@@ -5,19 +5,20 @@
 
 <br>
 
-<h2>
-  ndh1
-  ( <img src="https://static.solved.ac/tier_small/11.svg" height="20" align="absmiddle"/> <b>Gold V</b> 801 )
-</h2>
+<h3>
+  <img src="https://static.solved.ac/tier_small/11.svg" height="20" align="absmiddle"/> ndh1 ( Gold V 801 )
+</h3>
 
-<img src="https://solvedac-readme-stats.vercel.app/api?handle=ndh1&v=2&streak=false" alt="ndh1 Profile Stats" />
+<a href="https://www.acmicpc.net/user/ndh1">
+  <img src="https://img.shields.io/badge/Baekjoon-003366?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://solved.ac/profile/ndh1">
+  <img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logoColor=white" />
+</a>
 
-<br><br><br>
+<br>
 
-<p><b>🔗 프로필 바로가기</b></p>
-
-<a href="https://www.acmicpc.net/user/ndh1"><img src="https://img.shields.io/badge/Baekjoon-003366?style=for-the-badge&logoColor=white" alt="BOJ Profile" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://solved.ac/profile/ndh1"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=for-the-badge&logoColor=white" alt="solved.ac Profile" /></a>
+<img src="https://raw.githubusercontent.com/1dohyun/baekjoon/43be8f943bf388c901bc9d4415bba4d6f11d3c49/Misc/solvedac-ndh1-v1.svg" alt="ndh1 Profile Stats"/>
 
 </div>
